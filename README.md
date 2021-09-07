@@ -31,13 +31,11 @@ surface plane
 ### Je opdracht:
  <a href="https://www.yoasobi-music.jp/">https://www.yoasobi-music.jp/</a>
  
-#### Screenshot(s) van de eerste pagina (small screen): 
- <a href="https://www.yoasobi-music.jp/song">Music/Novel</a>
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+#### Screenshot(s) van de eerste pagina (small screen):  <a href="https://www.yoasobi-music.jp/song">Music/Novel</a>
+<img src="images/yms1.png" width="375px" alt="omschrijving van de pagina">
 
-#### Screenshot(s) van de tweede pagina (small screen):
- <a href="https://www.yoasobi-music.jp/profile">Profile</a> 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+#### Screenshot(s) van de tweede pagina (small screen): <a href="https://www.yoasobi-music.jp/profile">Profile</a> 
+<img src="images/yp1.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
