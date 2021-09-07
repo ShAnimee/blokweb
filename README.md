@@ -22,7 +22,7 @@ Shanna Gangadien
 Blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+surface plane
  
 </details>
 
