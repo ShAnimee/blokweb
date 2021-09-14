@@ -1,6 +1,13 @@
 # Procesverslag
+Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website. Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
+
+Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
+
+Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
+
+
+
 
 
 ## Jij
@@ -9,28 +16,35 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Shanna Gangadien
-#### Startniveau:
-Blauw
-#### Focus:
-surface plane
+Sanne 't Hooft (vervangen door jouw naam)
+
+#### Je startniveau:
+hier je startniveau (kies uit zwart, rood óf blauw)
+
+#### Je focus:
+hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
 
-## Website
+
+
+
+## Je website
 
 <details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
-### Opdracht:
- <a href="https://www.yoasobi-music.jp/">https://www.yoasobi-music.jp/</a>
- 
-#### Screenshots 1e pagina (small screen):  <a href="https://www.yoasobi-music.jp/song">Music/Novel</a>
-<img src="images/ysn1.png" width="375px" alt="omschrijving van de pagina"><img src="images/ysn2.png" width="375px" alt="omschrijving van de pagina"><img src="images/ysn3.png" width="375px" alt="omschrijving van de pagina"><img src="images/ysn4.png" width="375px" alt="omschrijving van de pagina"><img src="images/ysn5.png" width="375px" alt="omschrijving van de pagina"><img src="images/ysn6.png" width="375px" alt="omschrijving van de pagina"><img src="images/ysn7.png" width="375px" alt="omschrijving van de pagina"><img src="images/ysn8.png" width="375px" alt="omschrijving van de pagina"><img src="images/ysn9.png" width="375px" alt="footer">
+### Je opdracht:
+link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
-#### Screenshots 2e pagina (small screen): <a href="https://www.yoasobi-music.jp/profile">Profile</a> 
-<img src="images/yp1.png" width="375px" alt="omschrijving van de pagina"><img src="images/yp2.png" width="375px" alt="omschrijving van de pagina"><img src="images/yp3.png" width="375px" alt="omschrijving van de pagina"><img src="images/yp4.png" width="375px" alt="omschrijving van de pagina"><img src="images/yp5.png" width="375px" alt="omschrijving van de pagina"><img src="images/ypm.png" width="375px" alt="sidemenu">
+#### Screenshot(s) van de eerste pagina (small screen): 
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+
+#### Screenshot(s) van de tweede pagina (small screen):
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
